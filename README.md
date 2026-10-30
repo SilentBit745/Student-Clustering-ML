@@ -1,5 +1,5 @@
 
-# Wine Dataset Clustering
+# Wine Clustering Analysis
 
 ## About
 This project uses unsupervised machine learning to group wine samples into clusters.
